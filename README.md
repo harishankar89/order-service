@@ -104,3 +104,4 @@ Jacoco is used for code coverage analysis, ensuring that the solution is well-te
 - Add more validations for input data.
 - Add more profiles for better deployment.
 - Add more metrics for better analysis.
+- Add better asserts as in H2 Im facing issues with  transactions and commits in between tests, this wont be case with other DB approach
