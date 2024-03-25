@@ -36,8 +36,8 @@ mvn clean install
 mvn spring-boot:run
 ```
 4. Access OpenAPI documentation at http://localhost:8080/swagger-ui.html
-
 5. Once built, we can get the coverage report from target/site/jacoco/index.html
+6. H2 DB can be accessed at http://localhost:8080/h2-console; No password is required
 
 ### Running the tests
 To run the tests, use the following command:
