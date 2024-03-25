@@ -25,7 +25,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Installing
 
-1. Unzip the project
+1. Git clone the repository/ Unzip the project
 
 2. Build the project
 ```bash
